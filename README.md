@@ -1,3 +1,3 @@
 # Pepsi.com Clone
 
-Hosted link: 
+Hosted link: *https://pepsihackathon.netlify.app/*
